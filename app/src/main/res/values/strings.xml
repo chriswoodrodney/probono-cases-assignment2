@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Bono Case Tracker</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_cases">Cases</string>
+    <string name="nav_people">People</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Pro Bono Case Tracker</string>
+    <string name="case_summary">Case Summary</string>
+    <string name="case_total">Total</string>
+    <string name="case_pending">Pending</string>
+    <string name="case_won">Won</string>
+    <string name="case_lost">Lost</string>
+    <string name="case_dismissed">Dismissed</string>
+    <string name="recent_cases">Recent Cases</string>
+
+    <!-- Case List -->
+    <string name="case_list_title">Case List</string>
+    <string name="search_cases">Search Cases</string>
+    <string name="filter_all">All</string>
+    <string name="no_cases_found">No cases found</string>
+    <string name="add_new_case">Add new case</string>
+
+    <!-- Case Detail -->
+    <string name="case_detail_title">Case Details</string>
+    <string name="status">Status:</string>
+    <string name="client_information">Client Information</string>
+    <string name="case_details">Case Details</string>
+    <string name="people_involved">People Involved</string>
+    <string name="update_case_status">Update Case Status</string>
+    <string name="timeline">Timeline</string>
+    <string name="case_created_on">Case created on %s</string>
+    <string name="last_updated_on">Last updated on %s</string>
+
+    <!-- Add/Edit Case -->
+    <string name="add_case_title">Add New Case</string>
+    <string name="edit_case_title">Edit Case</string>
+    <string name="case_title">Case Title *</string>
+    <string name="client_name">Client Name *</string>
+    <string name="case_description">Case Description</string>
+    <string name="court_date">Court Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="assigned_lawyer">Assigned Lawyer *</string>
+    <string name="assigned_judge">Assigned Judge</string>
+    <string name="select_lawyer">Select a lawyer</string>
+    <string name="select_judge">Select a judge (optional)</string>
+    <string name="no_lawyers_available">No lawyers available</string>
+    <string name="no_judges_available">No judges available</string>
+    <string name="required_fields">* Required fields</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- People (Lawyers/Judges) -->
+    <string name="lawyers_tab">Lawyers</string>
+    <string name="judges_tab">Judges</string>
+    <string name="no_lawyers_found">No lawyers found</string>
+    <string name="no_judges_found">No judges found</string>
+    <string name="specialization">Specialization: %s</string>
+    <string name="court">Court: %s</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="back">Back</string>
+</resources>

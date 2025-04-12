@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3E64B1</color>
+    <color name="primary_variant">#27407B</color>
+    <color name="primary_dark">#1B2A52</color>
+    <color name="secondary">#6C63FF</color>
+    <color name="secondary_variant">#4B44C9</color>
+
+    <color name="background_light">#FFFFFF</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="error">#B00020</color>
+
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="error_dark">#CF6679</color>
+
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background_light">#000000</color>
+    <color name="on_surface_light">#000000</color>
+    <color name="on_background_dark">#FFFFFF</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+
+    <color name="status_pending">#FFA000</color>
+    <color name="status_won">#4CAF50</color>
+    <color name="status_lost">#F44336</color>
+    <color name="status_dismissed">#9E9E9E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Add the missing colors required by the build system -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
